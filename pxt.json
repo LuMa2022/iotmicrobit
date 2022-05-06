@@ -1,5 +1,5 @@
 {
-    "name": "IOTmicrobit",
+    "name": "IOTmicrobit Servo reset",
     "description": "",
     "dependencies": {
         "core": "*",
